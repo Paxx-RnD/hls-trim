@@ -1,0 +1,17 @@
+{
+  "name": "my-channel-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "eyevinn-channel-engine": "^4.1.1",
+    "hls-parser": "^0.10.6",
+    "kafkajs": "^2.2.4"
+  }
+}
